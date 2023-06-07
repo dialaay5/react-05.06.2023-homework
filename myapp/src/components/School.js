@@ -1,7 +1,7 @@
 import Students from './Students'
 import React, { Component } from 'react';
 
-class Class extends Component {
+class School extends Component {
     render() {
         //נייצר לולאה שתרוץ על כל רשימת התלמידים ותשלח פרטי כל תלמיד
         return (
@@ -24,4 +24,4 @@ class Class extends Component {
     }
 }
 
-export default Class;
+export default School;
